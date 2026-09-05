@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "homepage": "https://github.com/mushyalienstar/Forkify-App#readme",
+  "bugs": {
+    "url": "https://github.com/mushyalienstar/Forkify-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushyalienstar/Forkify-App.git"
+  },
+  "license": "ISC",
+  "author": "Arnav Govil",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4",
+    "parcel": "^2.16.4"
+  }
+}
