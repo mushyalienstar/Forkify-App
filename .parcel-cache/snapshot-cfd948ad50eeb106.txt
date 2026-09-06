@@ -1,4 +1,17 @@
-7558
+7582
+110C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_134330646836210410 1
+121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\package.json134330251759880955 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.map.every.js134331270427825910 0
+135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\utility-types\dist\utility-types.js.map134330251743331259 0
+135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\map-upsert-stage-2.js134331270458842069 0
+98C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js\model.js134331818321530244 0
+138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\disposable-stack\constructor.js134331270412953920 0
+125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\iterator\from.js134331270440111581 0
+137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\virtual\iterator.js134331270456629965 0
+92C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\README.md134328395984424809 0
+139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\typed-array\from-base64.js134331270438264149 0
+141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs134330251755329244 0
+127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\ranges\max-satisfying.js134330251745655257 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\filter-out.js134331270433363453 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\workers\src\web\WebWorker.js134330251747860749 0
 97C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\.gitattributes134328395984434801 0
@@ -11,13 +24,6 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\TH.js134330251758558078 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\term-size\vendor\macos\term-size134330251740933851 0
 101C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\json5134330643956197406 1
-125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\iterator\from.js134331270440111581 0
-138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\disposable-stack\constructor.js134331270412953920 0
-137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\virtual\iterator.js134331270456629965 0
-92C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\README.md134328395984424809 0
-139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\typed-array\from-base64.js134331270438264149 0
-141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs134330251755329244 0
-127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\ranges\max-satisfying.js134330251745655257 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_await_value134330646839801411 1
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\math\sinh.js134331270471790324 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\iterator134331278061828846 1
@@ -48,7 +54,7 @@
 111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\forkify-flowchart-part-1.png133822437180000000 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\cache\lib\IDBCache.js134330251741800702 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\dom-collections\index.js134331270446699722 0
-87C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist134331298054142243 1
+87C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist134331839951233255 1
 171C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js134330251740892043 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\proximity.js134330251757320216 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.array.sort.js134331270417830111 0
@@ -80,7 +86,7 @@
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.iterator.constructor.js134331270419081657 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\README.md134330251745313786 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\array-buffer\constructor.js134331270413038504 0
-93C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\index.html134331297750128082 0
+93C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\index.html134331299070350531 0
 112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\type-fest\source134330646778881188 1
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\symbol\async-dispose.js134331270408351236 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\transformer-babel\src\flow.js134330251743753917 0
@@ -91,7 +97,7 @@
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\weak-set\index.js134331270451222471 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\async-iterator\map.js134331270459094691 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\link.js134331270458474628 0
-95C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules134331270493157340 1
+95C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules134331837006475579 1
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\typed-array\some.js134331270472629614 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\math\sinh.js134331270471800323 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\symbol\search.js134331270468773158 0
@@ -101,17 +107,17 @@
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\filereader.js134330251753642131 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\json\stringify.js134331270474192955 0
 147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\async-iterator\as-indexed-pairs.js134331270408108919 0
-100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\package-lock.json134331270493548070 0
+100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\package-lock.json134331837006933521 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\entries.js134331270416732978 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\with.js134331270489882194 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\find-last-index.js134331270435412921 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss\node\ast.js.flow134330251741239561 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\functions\lt.js134330251745323803 0
-137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.reduce.js134331270426915995 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.json.stringify.js134331270419895519 0
-121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\error\index.js134331270447921140 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.math.cbrt.js134331270420041979 0
 110C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable134331278042063686 1
+121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\error\index.js134331270447921140 0
+137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.reduce.js134331270426915995 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.json.stringify.js134331270419895519 0
 104C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\sass\_upload.scss133822437200000000 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\input-search.js134330251755039780 0
 149C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\reflect\get-own-property-descriptor.js134331270442047498 0
@@ -121,7 +127,7 @@
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss\node\ast.d.ts134330251744852267 0
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\well-formed-unicode-strings.js134331270488746548 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\string\replace-all.js134331270467175239 0
-95C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\package.json134331270493187343 0
+95C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\package.json134331837006579005 0
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\parse-int.js134331270464010234 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\url-search-params\index.js134331270449640972 0
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\css-read-only-write.js134330251752029342 0
@@ -144,7 +150,7 @@
 147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array-buffer\transfer-to-fixed-length.js134331270482456467 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\type-fest\source\partial-deep.d.ts134330251745675231 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.promise.finally.js134331270421196962 0
-89C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js134006629482395589 1
+89C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js134331794842788478 1
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\iterators.js134331270456669961 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\packager-js\src\DevPackager.js134330251742210745 0
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\utils\src\hash.js134330251745831097 0
@@ -206,11 +212,28 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\iterator\find.js134331270436242896 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\symbol\metadata-key.js134331270461222162 0
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\html-media-capture.js134330251754550221 0
-103C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js\controller.js134331271164724947 0
+103C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js\controller.js134331832984311018 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\events\package.json134330251743978303 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\string-code-points.js134331270473967517 0
 105C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@mischnic134330646746151202 1
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\dotenv\README-es.md134330251742552334 0
+95C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js\views134331795084396347 1
+143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\namevalue-storage.js134330251756568697 0
+141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\async-functions.js134330251747084365 0
+124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\json\parse.js134331270464061935 0
+125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\is-iterable.js134331270454612356 0
+142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\build-test.js134330251740250702 0
+125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\iterator\some.js134331270472793292 0
+159C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.array-buffer.transfer-to-fixed-length.js134331270425035081 0
+136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.json.to-string-tag.js134331270419910584 0
+142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_async_generator_delegate.mjs134330251754641435 0
+147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\react-refresh\cjs\react-refresh-babel.production.js134330251740902008 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\async-iterator\drop.js134331270416173405 0
+127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\AG.js134330251743240068 0
+109C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\js\views\recipeView.js134331839614685607 0
+123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\string\search.js134331270468763140 0
+134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-releases\data\processed\envs.json134330251740365934 0
+139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\typed-array\uint8-array.js134331270485712441 0
 102C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\img\favicon.png133822437180000000 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.iterator.some.js134331270419611659 0
 101C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\chalk134330643949877839 1
@@ -227,16 +250,6 @@
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss\node_modules\detect-libc134330646819431131 1
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\string\trim-start.js134331270484094585 0
 100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\img\icons.svg133822437180000000 0
-127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\shared-key.js134331270471277435 0
-140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\esm\_class_private_field_set.js134330251750588945 0
-122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\dist\index.min.js134330251744555499 0
-127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\web\structured-clone.js134331270474255495 0
-147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\dom-manip-convenience.js134330251753168278 0
-100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb134330643957111570 1
-108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss134330643956479440 1
-133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\weak-map-helpers.js134331270487879768 0
-117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\sass\sass.default.cjs134331155760409074 0
-120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\at.js134331270408884371 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\picocolors\picocolors.browser.js134330251739124342 0
 99C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\src\img\logo.png133822437180000000 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dist\index.cjs134330251749587607 0
@@ -254,7 +267,7 @@
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\reflect\define-property.js134331270415140968 0
 108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite134330643949317897 1
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\set-immediate.js134331270470298715 0
-103C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel134331270493157340 1
+103C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel134331837006543842 1
 109C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\picomatch\lib134330646776024720 1
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\escalade\index.d.ts134330251742960717 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\cjs\_assert_this_initialized.cjs134330251742331770 0
@@ -276,7 +289,7 @@
 110C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\parcel\LICENSE134330251738677837 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\index-of.js134331270446380224 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\sum-precise.js134331270475472200 0
-114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.package-lock.json134331270493768599 0
+114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.package-lock.json134331837007163870 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\array\entries.js134331270416692250 0
 117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\dotenv-expand\LICENSE134330251738617763 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\utils\src\objectHash.js134330251748291268 0
@@ -287,8 +300,7 @@
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\url\can-parse.js134331270409829182 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\runtime-js\lib\JSRuntime.js134330251745760531 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\virtual\bold.js134331270409744010 0
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\virtual\bind.js134331270409296744 0
-113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@msgpackr-extract134331270493167336 1
+113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@msgpackr-extract134331837006485567 1
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\input-email-tel-url.js134330251754889259 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\array-is-template-object.js134331270407709058 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures\main-mjs134330646873501136 1
@@ -309,7 +321,14 @@
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\parcel\src\.eslintrc.json134330251741900850 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\update-browserslist-db\README.md134330251741925181 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\README.md134331270490632246 0
-101C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@lmdb134331270493167336 1
+101C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@lmdb134331837006543842 1
+113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\dist134330646818241994 1
+106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional134331837270040550 1
+128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\typed-array\from.js134331270440151664 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures\bundle.js134330251747635065 0
+130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\object\to-string.js134331270482085286 0
+142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\array-iteration-from-last.js134331270407731788 0
+153C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc134330646822489686 1
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\some.js134331270472898559 0
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\math\radians.js134331270465797353 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\typed-array\reduce.js134331270466602808 0
@@ -319,7 +338,7 @@
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\utility-types\dist\utility-types.js134330251741512493 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\array\index.js134331270446420912 0
 113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\source-map-js\lib134331156234635447 1
-100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc134331270493157340 1
+100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc134331837006475579 1
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\instance\unshift.js134331270487083770 0
 113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\parcel\lib\cli.js134330251740973825 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\baseline-browser-mapping134330643948603926 1
@@ -404,6 +423,10 @@
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\node_api.gyp134330251740165388 0
 106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\is-extglob134330643955606773 1
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\functions\inc.js134330251744753497 0
+108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss134330643956479440 1
+133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\weak-map-helpers.js134331270487879768 0
+117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\sass\sass.default.cjs134331155760409074 0
+120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\at.js134331270408884371 0
 148C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.map.get-or-insert-computed.js134331270428003875 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss-win32-x64-msvc134330643956817099 1
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\iterator\take.js134331270475774393 0
@@ -412,6 +435,12 @@
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\async-iterator\index.js134331270450891427 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\starts-with.js134331270473489077 0
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\picocolors\LICENSE134330251738532584 0
+127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\shared-key.js134331270471277435 0
+140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\esm\_class_private_field_set.js134330251750588945 0
+122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\dist\index.min.js134330251744555499 0
+127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\web\structured-clone.js134331270474255495 0
+147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\dom-manip-convenience.js134330251753168278 0
+100C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb134330643957111570 1
 176C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\node-gyp-build.js134330251741114293 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\at.js134331270408698862 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\utility-types\dist\functional-helpers.js134330251740365934 0
@@ -511,9 +540,6 @@
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr-extract\node_modules\detect-libc134330646821427804 1
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\regexp\match.js134331270459571900 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lmdb-data-v1134330646881289145 1
-140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\esm\_tagged_template_literal.js134330251751518387 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.can-parse.js134331270488385436 0
-122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\a-map.js134331270405312778 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\wasm-tail-calls.js134330251759359339 0
 112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\parcel\README.md134330251742698384 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\number\virtual\index.js134331270448022749 0
@@ -534,26 +560,28 @@
 105C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\term-size134330643965968470 1
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\disposable-stack\index.js134331270450260394 0
 101C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\tslib134330643966260999 1
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\queue-microtask.js134331270465430968 0
+116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\README.md134331837005956126 0
 163C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\README.md134330251742090350 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\code-point-at.js134331270410896862 0
 105C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\type-fest134330643967930392 1
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_update.mjs134330251755758488 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.math.tanh.js134331270420244715 0
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stage\2.js134331270405211173 0
+134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\instance\to-reversed.js134331270479571789 0
+130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.to-json.js134331270488726578 0
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures\main-mjs\package.json134330251752399078 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\update-browserslist-db134330643968246698 1
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\json5\lib\unicode.d.ts134330251745228604 0
-130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.to-json.js134331270488726578 0
-134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\instance\to-reversed.js134331270479571789 0
 108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full134331278041418010 1
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\date\to-string.js134331270481711844 0
 109C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\utility-types134330643968653844 1
 110C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\weak-lru-cache134330643969014161 1
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\object\define-setter.js134331270415190911 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\weak-lru-cache\dist134330646779863869 1
-155C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134330251740933851 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\error\to-string.js134331270481671843 0
-108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\favicon.8b2f57bf.png134331297018589564 0
+155C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134330251740933851 0
+108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\favicon.8b2f57bf.png134331837579510242 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\math134331278044800739 1
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\picomatch\index.js134330251740355888 0
 149C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.symbol.is-registered-symbol.js134331270430769536 0
@@ -599,9 +627,9 @@
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\object-values.js134330251756784173 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\alt-ww.js134330251745519863 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.dom-exception.stack.js134331270487981632 0
+123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\bind.js134331270409286764 0
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\weak-lru-cache\tests\test.js134330251741665315 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\aggregate-error.js134331270405654137 0
-123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\bind.js134331270409286764 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.array.reduce-right.js134331270417764914 0
 153C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c134330251749239146 0
 142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\well-known-symbol-wrapped.js134331270488766544 0
@@ -684,6 +712,11 @@
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures\config-malformed134330646867239433 1
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\utility-types\dist\functional-helpers.d.ts134330251744713408 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\a-constructor.js134331270405281728 0
+126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\lib\Validation.js134330251751732710 0
+147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml134330251749763036 0
+133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\bold.js134331270409689032 0
+143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.typed-array.to-sorted.js134331270431361998 0
+119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\package.json134331837005926066 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\esm\_async_generator_delegate.js134330251750186204 0
 166C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json134330251741740449 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\async-disposable-stack\index.js134331270450185184 0
@@ -713,11 +746,6 @@
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\array-unique.js134331270408064350 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\object\is.js134331270455886256 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\tslib\tslib.es6.mjs134330251743074196 0
-110C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_134330646836210410 1
-121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\package.json134330251759880955 0
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.map.every.js134331270427825910 0
-135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\utility-types\dist\utility-types.js.map134330251743331259 0
-135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\map-upsert-stage-2.js134331270458842069 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\filter.js134331270433690168 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\iterator\every.js134331270432795082 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\instance\replace-all.js134331270467250373 0
@@ -744,8 +772,8 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\update-browserslist-db\utils.js134330251741114293 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\define-built-ins.js134331270414912245 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.map.delete-all.js134331270427720171 0
-115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\type-fest\base.d.ts134330251741750498 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\pad-end.js134331270462404125 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\type-fest\base.d.ts134330251741750498 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\typed-array\from-base64.js134331270438274085 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\data-view\get-uint8-clamped.js134331270443433237 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\structured-clone.js134331270474225506 0
@@ -1039,7 +1067,6 @@
 146C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure134330646840743269 1
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.number.epsilon.js134331270420294708 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\supports-color\package.json134330251740600856 0
-121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\rollup.config.js134330251745198428 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\supports-color\readme.md134330251740983828 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\function\virtual\bind.js134331270409371977 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\LT.js134330251755869007 0
@@ -1091,11 +1118,11 @@
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.array.unscopables.flat.js134331270418061873 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\object\create.js134331270414469225 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\source-map-js\lib\source-map-generator.d.ts134331155759795246 0
-117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\package.json134330251745986140 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\lookup-getter.js134331270458711719 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\baseline-browser-mapping.ps1134330251766250164 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\ordered-binary\index.js134330251740786735 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss\README.md134330251743799116 0
+117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\package.json134330251745986140 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\lookup-getter.js134331270458711719 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\map\update-or-insert.js134331270487420948 0
 110C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\immutable\dist134331156234372511 1
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\environment-is-ios.js134331270416873272 0
@@ -1221,6 +1248,11 @@
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\config-default\index.json134330251740786735 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\virtual\for-each.js134331270437609648 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\configurator.js134331270412772643 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\types-internal\src\Cache.js134330251740471234 0
+128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\global-this.js134331270443643509 0
+124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\hypot.js134331270444634893 0
+142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\reflect\prevent-extensions.js134331270464253953 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\tests.js134331837006294844 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\string\trim-right.js134331270483993137 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\functions\diff.js134330251743442969 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\functions\gte.js134330251744148932 0
@@ -1234,7 +1266,7 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\parse-float.js134331270463865121 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\string\virtual\fontsize.js134331270437464392 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\number\virtual\index.js134331270449410467 0
-115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.4a59a05f.js.map134331298054122199 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.4a59a05f.js.map134331839615494836 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\KE.js134330251755349244 0
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\functions\minor.js134330251745861051 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\semver\functions\neq.js134330251745936199 0
@@ -1328,10 +1360,6 @@
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\data-view\set-float16.js134331270469449440 0
 113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\sass\types\legacy134331156235478520 1
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\sass\types\options.d.ts134331155763941577 0
-123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\object\assign.js134331270408266065 0
-136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\utils\src\dependency-location.js134330251744952802 0
-136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.js134331270488345479 0
-149C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array-buffer\transfer-to-fixed-length.js134331270482476528 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\function\bind.js134331270409401998 0
 112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\sass\types\value134331156236150798 1
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\async-iterator\from.js134331270438690247 0
@@ -1415,16 +1443,14 @@
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\string\match.js134331270459663052 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\safe-buffer\LICENSE134330251738572590 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lz4\lib\lz4file.c134330251746513175 0
-120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\safe-buffer\package.json134330251740315983 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\virtual\index-of.js134331270446275062 0
-135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.structured-clone.js134331270488072449 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.zip-keyed.js134331270427474417 0
+135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.structured-clone.js134331270488072449 0
+120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\safe-buffer\package.json134330251740315983 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\nullthrows\package.json134330251738647844 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\typed-array\keys.js134331270457046063 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\ordered-binary\LICENSE134330251738512546 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\regenerator-runtime\LICENSE134330251738582589 0
-138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\font-kerning.js134330251753839258 0
-129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\includes.js134331270446203749 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\download-msgpackr-prebuilds.ps1134330251766250164 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\date\now.js134331270461610409 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\regenerator-runtime\package.json134330251740701025 0
@@ -1446,6 +1472,7 @@
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\object\get-own-property-names.js134331270442999282 0
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\readdirp\README.md134331155760096104 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\symbol\match-all.js134331270459561887 0
+122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\array_mixins.js134331837005971377 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.string.code-points.js134331270430484438 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\react-refresh\babel.js134330251739144341 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\weak-map134331278064267756 1
@@ -1463,13 +1490,6 @@
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.regexp.dot-all.js134331270421499831 0
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\pointerlock.js134330251757225086 0
 148C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\react-refresh\cjs\react-refresh-babel.development.js134330251740461238 0
-136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.json.to-string-tag.js134331270419910584 0
-142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_async_generator_delegate.mjs134330251754641435 0
-147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\react-refresh\cjs\react-refresh-babel.production.js134330251740902008 0
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\async-iterator\drop.js134331270416173405 0
-123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\string\search.js134331270468763140 0
-134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-releases\data\processed\envs.json134330251740365934 0
-139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\typed-array\uint8-array.js134331270485712441 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_is_native_function134330646853504422 1
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\number\virtual\index.js134331270450695441 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\objectrtc.js134330251756799458 0
@@ -1480,6 +1500,13 @@
 150C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\react-refresh\cjs\react-refresh-runtime.development.js134330251741391905 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\regexp-sticky-helpers.js134331270466803209 0
 142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.function.is-callable.js134331270426213791 0
+145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\object\get-own-property-names.js134331270442979292 0
+126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.weak-set.js134331270424695738 0
+139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\virtual\last-index-of.js134331270458363640 0
+128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\string\blink.js134331270409503094 0
+129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\trim-right.js134331270483932219 0
+129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.keys.js134331270420931657 0
+117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\index.html134331837006317215 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\concat.js134331270412732647 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\json5\lib\stringify.d.ts134330251745077986 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\postcss-value-parser\lib134330646776324658 1
@@ -1504,8 +1531,8 @@
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\url134331278063996810 1
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\picomatch\lib\parse.js134330251740892043 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\namer-default\LICENSE134330251738667839 0
-137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\typed-array\int32-array.js134331270451425931 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\disposable-stack\index.js134331270447911061 0
+137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\typed-array\int32-array.js134331270451425931 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.global-this.js134331270426265065 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\picomatch\lib\picomatch.js134330251741361912 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\string\trim-end.js134331270483501453 0
@@ -1585,8 +1612,8 @@
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.dom-exception.constructor.js134331270487971624 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\nullthrows\nullthrows.js.flow134330251741058987 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\svg-css.js134330251758258785 0
-114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-releases\data134330646822812613 1
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\match-all.js134331270459542157 0
+114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-releases\data134330646822812613 1
 117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-releases\LICENSE134330251738562576 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\string\small.js134331270472453344 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\to-reversed.js134331270479141923 0
@@ -1605,13 +1632,6 @@
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\prevent-extensions.js134331270464263965 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\virtual\trim-left.js134331270483910217 0
 153C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-releases\data\release-schedule\release-schedule.json134330251741381919 0
-143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\namevalue-storage.js134330251756568697 0
-141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\async-functions.js134330251747084365 0
-124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\json\parse.js134331270464061935 0
-125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\is-iterable.js134331270454612356 0
-142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\build-test.js134330251740250702 0
-125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\iterator\some.js134331270472793292 0
-159C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.array-buffer.transfer-to-fixed-length.js134331270425035081 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\audio-api.js134330251747675069 0
 155C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c134330251747760371 0
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\index.js134330251740600856 0
@@ -1633,7 +1653,6 @@
 148C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\keyboardevent-location.js134330251755410968 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.set.filter.js134331270428667633 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\README.md134330251741850782 0
-153C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc134330646822489686 1
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\cache\lib\index.js134330251742467168 0
 172C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\detect-libc.js134330251740175398 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\arrow-functions.js134330251746346987 0
@@ -1653,13 +1672,11 @@
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\napi-inl.deprecated.h134330251741740449 0
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.uint8-array.from-base64.js134331270431757036 0
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\napi-inl.h134330251743169524 0
-124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\noexcept.gypi134330251741299569 0
-134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\virtual\flat-map.js134331270436645337 0
 151C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js134330251741249589 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\webvr.js134330251759617962 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\is-well-formed.js134331270455650614 0
-120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@mischnic\json-sourcemap134330646746430651 1
-140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.has.js134331270488325480 0
+124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\noexcept.gypi134330251741299569 0
+134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\virtual\flat-map.js134331270436645337 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\promise\try.js134331270485048844 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\node-addon-api\nothing.c134330251738361892 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\math\log1p.js134331270458609805 0
@@ -1746,6 +1763,7 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.math.sinh.js134331270420213885 0
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\README.md134330251748661275 0
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\symbol\split.js134331270473449058 0
+121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\rollup.config.js134330251745198428 0
 155C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node134330251742185570 0
 116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\msgpackr\SECURITY.md134330251748716413 0
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\node_modules\node-addon-api\tools\README.md134330251745353822 0
@@ -1834,6 +1852,7 @@
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\reflect\define-property.js134331270415110830 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\util\RangeIterable.js134330251750808086 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\atob.js134331270409123002 0
+111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.2c0077ac.js134331839302162777 0
 142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\transformer-js\src\esmodule-helpers.js134330251740481208 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\immutable\dist\immutable.js.flow134331155759108435 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_apply_decs_2203_r134330646836895132 1
@@ -1845,7 +1864,6 @@
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\src\compression.cpp134330251749669835 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\create.js134331270414479356 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\src\cursor.cpp134330251749699901 0
-143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.delete.js134331270488102462 0
 112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\src\dbi.cpp134330251749722979 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\object\lookup-getter.js134331270458691728 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64134330646747451112 1
@@ -1942,7 +1960,6 @@
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.prevent-extensions.js134331270420991659 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\template.js134330251758442943 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lmdb134330646880116907 1
-130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\pad-start.js134331270462712849 0
 117C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lz4134330646819935484 1
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\index.js134331270450146275 0
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\length-of-array-like.js134331270458454630 0
@@ -2009,6 +2026,7 @@
 155C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1134330251745303698 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\instance\match-all.js134331270459310312 0
 116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\is-extglob\README.md134330251739144341 0
+116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.2d55f843.css.map134331839302227031 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\symbol\replace.js134331270468195280 0
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\es6-string-includes.js134330251753456126 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\date\set-year.js134331270470641195 0
@@ -2164,10 +2182,10 @@
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.symbol.key-for.js134331270423462631 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss\node_modules\detect-libc\LICENSE134330251738687834 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\typed-array\subarray.js134331270475166893 0
-106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\icons.21bad73c.svg134331271174843668 0
+106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\icons.21bad73c.svg134331837579731798 0
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\virtual\fontsize.js134331270437484402 0
-128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\italics.js134331270455981380 0
 146C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\lightningcss\node_modules\detect-libc\package.json134330251741730521 0
+128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\italics.js134331270455981380 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\source-map\dist\wasm.js134330251745047973 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\streams.js134330251758173582 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\pdf-viewer.js134330251757000996 0
@@ -2198,6 +2216,9 @@
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.typed-array.find-last-index.js134331270423669263 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\to-well-formed.js134331270482130102 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\number\to-precision.js134331270478976276 0
+107C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\parcel134330251766260173 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\index.js134331837006273107 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\number\is-finite.js134331270454472143 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.observable.of.js134331270428401281 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\an-uint8-array.js134331270406020638 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\commander\package.json134330251743331259 0
@@ -2286,6 +2307,19 @@
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\src\loadDotEnv.js134330251749752987 0
 114C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\get-port\readme.md134330251741068980 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.indexed.js134331270426639726 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.substr.js134331270422991666 0
+125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\splice.js134331270473262638 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\webusb.js134330251759607966 0
+127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\NL.js134330251756673907 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\releases134331837270212988 1
+133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\to-uint8-clamped.js134331270482110021 0
+135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.join.js134331270426649738 0
+124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\json\parse.js134331270464111933 0
+139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\regexp-unsupported-ncg.js134331270466813225 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\observable\index.js134331270449541821 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\releases\fraction-0.1.js134331837006352314 0
+129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\instance\trim-end.js134331270483481440 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\fractional\releases\fraction-0.2.js134331837006403096 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\object-define-properties.js134331270461752011 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\parse-float.js134331270463930229 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts134330251742321760 0
@@ -2331,6 +2365,7 @@
 156C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json134330251752579879 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\dotenv-expand\README.md134330251741655276 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\object\lookup-getter.js134331270458701729 0
+111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.673393a8.js134331839950978555 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\esm\_decorate.js134330251750828084 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\virtual\iterator.js134331270456392727 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\flat.js134331270436883119 0
@@ -2424,7 +2459,6 @@
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\async-disposable-stack134331278059141964 1
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\is-iterable.js134331270454642458 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\btoa.js134331270409774021 0
-124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\raw.js134331270465943427 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.sub.js134331270422971619 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\clear-immediate.js134331270410787935 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\fill.js134331270433010553 0
@@ -2438,13 +2472,13 @@
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\date134331278059557326 1
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_get_prototype_of\package.json134330251753198268 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\disposable-stack134331278059696610 1
+148C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.constructor.js134331270488092461 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\symbol\to-string-tag.js134331270480161461 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\dom-collections134331278061169859 1
-148C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.constructor.js134331270488092461 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\packager-css\lib134330646795847080 1
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\watcher\src\Debounce.cc134330251741880785 0
-120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\escape.js134331270424800906 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\iterator.js134331270456619961 0
+120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\escape.js134331270424800906 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\sup.js134331270475482197 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\function134331278061528791 1
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\dom-collections134331278055053845 1
@@ -2587,6 +2621,8 @@
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\values.js134331270487829742 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures\main-global134330646873270903 1
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\from-code-point.js134331270438365704 0
+138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\font-kerning.js134330251753839258 0
+129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\includes.js134331270446203749 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\index.js134331270451141760 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.array.find-last-index.js134331270425110168 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\link.js134331270458529805 0
@@ -2594,6 +2630,8 @@
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\runtime-rsc\rsc-helpers.jsx134330251741472247 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\match.js134331270459958707 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\correct-prototype-getter.js134331270414171769 0
+130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\pad-start.js134331270462712849 0
+124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\raw.js134331270465943427 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@mischnic\json-sourcemap\LICENSE134330251738627843 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\string\repeat.js134331270466954587 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\string\virtual\replace-all.js134331270467240369 0
@@ -2760,18 +2798,10 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\array\group.js134331270444292154 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\async-iterator\async-dispose.js134331270408341234 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\object\prevent-extensions.js134331270464283950 0
-130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.set-timeout.js134331270488052485 0
-127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-pad.js134331270474062652 0
-113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\dist134330646818241994 1
-128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\typed-array\from.js134331270440151664 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures\bundle.js134330251747635065 0
-130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\object\to-string.js134331270482085286 0
-142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\array-iteration-from-last.js134331270407731788 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\object\values.js134331270487839751 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\utils\src\Deferred.js134330251744852267 0
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\iterator\index.js134331270447971131 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\number\epsilon.js134331270417301365 0
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\has-instance.js134331270444372465 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.promise.all-settled.js134331270428431941 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\number\index.js134331270451079834 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.date.to-iso-string.js134331270418423008 0
@@ -2818,10 +2848,6 @@
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js134330251742502215 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\f16round.js134331270432950551 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\fround.js134331270440283101 0
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\types-internal\src\Cache.js134330251740471234 0
-128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\global-this.js134331270443643509 0
-124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\hypot.js134331270444634893 0
-142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\reflect\prevent-extensions.js134331270464253953 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\imul.js134331270444965442 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\symbol\metadata.js134331270461292165 0
 113C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\date134331278054534908 1
@@ -2848,11 +2874,6 @@
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\json\index.js134331270451039827 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\math\to-string-tag.js134331270481262693 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\map\get-or-insert-computed.js134331270441433426 0
-135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.join.js134331270426649738 0
-124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\json\parse.js134331270464111933 0
-139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\regexp-unsupported-ncg.js134331270466813225 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\observable\index.js134331270449541821 0
-129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\instance\trim-end.js134331270483481440 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\json\raw-json.js134331270465902504 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\blink.js134331270409473139 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\virtual\join.js134331270456731362 0
@@ -3047,9 +3068,9 @@
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\fill.js134331270433288351 0
 147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs134330251755542869 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\filter.js134331270433700152 0
+123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\name.js134331270461480188 0
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\find-last.js134331270435603230 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\async-iterator134331278050490223 1
-123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\name.js134331270461480188 0
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\regexp\match.js134331270459653027 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\find.js134331270436212233 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.reflect.construct.js134331270421312170 0
@@ -3073,8 +3094,8 @@
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\reverse.js134331270468385575 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\get-set-record.js134331270443392858 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\array\keys.js134331270457003224 0
-141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.size.js134331270488365444 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\slice.js134331270472348196 0
+141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.size.js134331270488365444 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.atob.js134331270487909747 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\typed-array\slice.js134331270472318123 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\stable\array\virtual\splice.js134331270473323772 0
@@ -3158,8 +3179,6 @@
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.math.cosh.js134331270420081990 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.iterator.flat-map.js134331270426390238 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\math-clamp-v2.js134331270460241200 0
-138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js134330251740020066 0
-128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.parse.js134331270488711372 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\math-clamp.js134331270460376154 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\proposals\number-from-string.js134331270461620499 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\freeze.js134331270438121704 0
@@ -3272,6 +3291,7 @@
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\fixtures134330646826944462 1
 161C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\cjs\_class_check_private_static_field_descriptor.cjs134330251745288623 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.array.species.js134331270417840200 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.b2b31585.js.map134331839478145224 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.array.to-spliced.js134331270417875250 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\array-buffer-view-core.js134331270406741993 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\math\imulh.js134331270444985609 0
@@ -3325,7 +3345,6 @@
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.iterator.from.js134331270419426537 0
 142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.map.update-or-insert.js134331270428124158 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.iterator.map.js134331270419581826 0
-124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\index.js134331270447931136 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.iterator.to-array.js134331270419653420 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\pointer-events.js134330251757201343 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.iterator.zip.js134331270419673409 0
@@ -3394,6 +3413,7 @@
 147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.get-own-property-names.js134331270420826015 0
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\promise\any.js134331270406184370 0
 149C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.get-own-property-symbols.js134331270420836081 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.2c0077ac.js.map134331839302277157 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc134330251740923865 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.group-by.js134331270420866093 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\reflect\get.js134331270443588362 0
@@ -3403,12 +3423,6 @@
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\array\virtual\keys.js134331270457066070 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\src\_is_native_function.mjs134330251755288986 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.is.js134331270420921579 0
-145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\object\get-own-property-names.js134331270442979292 0
-126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.weak-set.js134331270424695738 0
-139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array\virtual\last-index-of.js134331270458363640 0
-128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\string\blink.js134331270409503094 0
-129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\trim-right.js134331270483932219 0
-129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.keys.js134331270420931657 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\GH.js134330251754212106 0
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\math\tanh.js134331270475794382 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.object.lookup-getter.js134331270420951648 0
@@ -3485,11 +3499,6 @@
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.split.js134331270422941620 0
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.starts-with.js134331270422951626 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.strike.js134331270422971619 0
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.substr.js134331270422991666 0
-125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\splice.js134331270473262638 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\webusb.js134330251759607966 0
-127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\NL.js134330251756673907 0
-133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\to-uint8-clamped.js134331270482110021 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\get-iterator-method.js134331270441035619 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\events\src\ValueEmitter.js134330251743462952 0
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\es.string.to-well-formed.js134331270423024967 0
@@ -3718,10 +3727,6 @@
 142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.typed-array.group-by.js134331270431352000 0
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.typed-array.to-reversed.js134331270431352000 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\array\find-index.js134331270434609116 0
-126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\lib\Validation.js134330251751732710 0
-147C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml134330251749763036 0
-133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\string\virtual\bold.js134331270409689032 0
-143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.typed-array.to-sorted.js134331270431361998 0
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\esnext.weak-map.delete-all.js134331270431832237 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\lib\CommittedAsset.js134330251748201059 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\set-method-accept-set-like.js134331270470393854 0
@@ -3741,8 +3746,22 @@
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\typed-array\subarray.js134331270475017476 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.self.js134331270488022471 0
 128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\instance\unshift.js134331270487254312 0
+130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.set-timeout.js134331270488052485 0
+127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-pad.js134331270474062652 0
+143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.delete.js134331270488102462 0
+120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@mischnic\json-sourcemap134330646746430651 1
+140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.has.js134331270488325480 0
+123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\object\assign.js134331270408266065 0
+136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\utils\src\dependency-location.js134330251744952802 0
+136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url-search-params.js134331270488345479 0
+149C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\array-buffer\transfer-to-fixed-length.js134331270482476528 0
+140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\esm\_tagged_template_literal.js134330251751518387 0
+132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.can-parse.js134331270488385436 0
+122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\a-map.js134331270405312778 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.constructor.js134331270488661371 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.js134331270488681382 0
+138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js134330251740020066 0
+128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\modules\web.url.parse.js134331270488711372 0
 140C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\map\get-or-insert-computed.js134331270441200772 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\instance\index-of.js134331270446320202 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\a-callable.js134331270405269161 0
@@ -4060,8 +4079,8 @@
 141C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-punycode-to-ascii.js134331270474092649 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-trim-end.js134331270474132937 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-trim-start.js134331270474142946 0
-128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-trim.js134331270474152950 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\error\constructor.js134331270412984006 0
+128C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\string-trim.js134331270474152950 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\symbol-define-to-primitive.js134331270475623275 0
 137C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\internals\symbol-is-registered.js134331270475633270 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\object\to-string.js134331270481395617 0
@@ -4421,7 +4440,7 @@
 136C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\define-properties.js134331270415035760 0
 109C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\chalk\license134330251738667839 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\entries.js134331270416752979 0
-98C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\index.html134331298053971717 0
+98C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\index.html134331839950928471 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\from-entries.js134331270438395713 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\iterator\zip-keyed.js134331270490275126 0
 146C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\full\object\get-own-property-descriptor.js134331270442103028 0
@@ -4773,7 +4792,6 @@
 125C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\parse-int.js134331270463990249 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\fill.js134331270433031406 0
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\promise134331278052481207 1
-131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\queue-microtask.js134331270465430968 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\regexp\escape.js134331270424770897 0
 119C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\regexp134331278052648637 1
 120C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\self.js134331270469387402 0
@@ -4988,8 +5006,6 @@
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\typed-array\includes.js134331270445621454 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\object\to-string.js134331270481959838 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\number\epsilon.js134331270417281494 0
-107C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\parcel134330251766260173 0
-132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\number\is-finite.js134331270454472143 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\number\is-nan.js134331270454883533 0
 134C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\features\date\to-gmt-string.js134331270477563892 0
 143C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js134330251750291373 0
@@ -5466,7 +5482,10 @@
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\bundler-default\lib134330646781246332 1
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\trim-start.js134331270484064594 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\instance\unshift.js134331270487043817 0
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\has-instance.js134331270444372465 0
+124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\index.js134331270447931136 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\virtual134331278066248522 1
+131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\virtual\bind.js134331270409296744 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\cache\src\IDBCache.browser.js134330251741331923 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\function\virtual\index.js134331270447931136 0
 124C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\es\error\is-error.js134331270453856191 0
@@ -5822,6 +5841,7 @@
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\instance\concat.js134331270411490737 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\instance\entries.js134331270416601894 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\instance\filter.js134331270433494049 0
+112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.2d55f843.css134331839302152771 0
 133C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\instance\find-index.js134331270434091681 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\instance\find-last.js134331270435458035 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\instance\find.js134331270435664256 0
@@ -5884,7 +5904,7 @@
 142C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\features\css-font-palette.js134330251751188558 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\date\set-year.js134331270470610269 0
 132C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\date\to-gmt-string.js134331270477553912 0
-105C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\logo.726d37a8.png134331297018579583 0
+105C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\logo.726d37a8.png134331837579545974 0
 126C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\date\to-json.js134331270477855581 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\data-view\get-float16.js134331270440654656 0
 129C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\core-js\actual\data-view\index.js134331270446460927 0
@@ -6007,7 +6027,7 @@
 121C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\chalk\source\templates.js134330251740431223 0
 116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\chalk\source\util.js134330251740776707 0
 116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\LICENSE134330251738702906 0
-106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\icons.0809ef97.svg134331298053801640 0
+106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\icons.0809ef97.svg134331837580094105 0
 118C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\README.md134330251759890937 0
 122C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\dist\unpacker134330646818725342 1
 145C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@swc\helpers\_\_class_check_private_static_access134330646843467534 1
@@ -6026,7 +6046,6 @@
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\versionGroups.js134330251759043741 0
 138C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\types-internal\scripts\build-ts.sh134330251744364860 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\AE.js134330251742748459 0
-127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\AG.js134330251743240068 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\AI.js134330251744229595 0
 131C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\caniuse-lite\data\regions\alt-af.js134330251744680726 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\watcher\src\windows134330646834079981 1
@@ -7423,7 +7442,7 @@
 139C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\SymbolPropagation.test.js134330251751212667 0
 130C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\src\public\Symbols.js134330251751282715 0
 135C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\TargetRequest.test.js134330251751483185 0
-111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.4a59a05f.js134331298054092260 0
+111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.4a59a05f.js134331839615464817 0
 127C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\test-utils.js134330251751498301 0
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\requests\ConfigRequest.test.js134330251748536074 0
 144C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\@parcel\core\test\requests\DevDepRequest.test.js134330251748917532 0
@@ -7553,7 +7572,12 @@
 111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\parcel.ps1134330251766260173 0
 109C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\sass.ps1134331155764549960 0
 123C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\node_modules\.bin\update-browserslist-db134330251766385650 0
+108C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\favicon.38ab3f7a.png134331839299807333 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.3464ddca.js.map134331155796442319 0
 115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.62406edb.js.map134331155796076536 0
-112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.f7626f62.css134331297020346395 0
-116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.f7626f62.css.map134331297020396360 0
+115C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.673393a8.js.map134331839951220182 0
+111C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.b2b31585.js134331839478035250 0
+112C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.f7626f62.css134331837580005479 0
+116C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\Forkify App.f7626f62.css.map134331837580037317 0
+106C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\icons.c5b0f01c.svg134331839302152771 0
+105C:\Users\arnav\OneDrive\Documents\Coding\JavaScript\18-forkify\starter\Forkify App\dist\logo.0240107d.png134331839302009138 0
